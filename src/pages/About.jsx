@@ -20,7 +20,7 @@ function About() {
 
                                 <h2>Curious about me? Here you have it:</h2>
 
-
+                                
                                 <p> who specializes in full stack development (React.js & Node.js). I am
                                     enthusiastic about bringing the technical and visual aspects of
                                     digital products to life.</p>
